@@ -63,25 +63,6 @@ Vue3_Tailwind4/
 - 📱 **Totalmente Responsivo** - Diseños adaptados a todos los dispositivos
 - 🚀 **Vite** - Servidor de desarrollo ultrarrápido y compilación optimizada
 
-## Personalización de Tailwind
-
-La configuración de Tailwind puede ser modificada en el archivo `tailwind.config.js`. Por ejemplo:
-
-```javascript
-module.exports = {
-  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
-  theme: {
-    extend: {
-      colors: {
-        'primary': '#4F46E5',
-        'secondary': '#10B981',
-      },
-      // Añade más personalizaciones aquí
-    }
-  },
-  plugins: []
-}
-```
 
 ## Recursos Útiles
 
